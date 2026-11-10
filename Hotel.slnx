@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Hotel.Domain/Hotel.Domain.csproj" Id="5291a1ad-d822-44fb-a4c5-ad602cb5fba6" />
+  <Project Path="Hotel.Tests/Hotel.Tests.csproj" Id="b534e096-5977-444c-a8d6-44cf37e64b0f" />
+</Solution>
